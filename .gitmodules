@@ -1,0 +1,3 @@
+[submodule "ref_100daysofweb"]
+	path = ref_100daysofweb
+	url = https://github.com/talkpython/100daysofweb-with-python-course.git
